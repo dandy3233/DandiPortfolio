@@ -21,10 +21,10 @@ export const educationData = [
   },
   {
     step: "03",
-    institution: "Grade 12 Preparatory Education",
+    institution: "Lalo Aira secondary and preparatory school (LASS)",
     level: "Preparatory Education",
     grades: "Grade 12",
-    location: "Ethiopia",
+    location: "Lalo Aira, West Wollega, Ethiopia",
     period: "University Prep",
     description: "I completed my Grade 12 preparatory education and prepared for university admission and higher education.",
     badge: "Preparatory Education",
