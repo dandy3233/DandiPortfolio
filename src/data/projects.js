@@ -128,7 +128,7 @@ export const projects = [
     title: "Odoo ERP Development & Business Solutions",
     category: "ERP / Business Software",
     filterCategories: ["ERP", "Backend", "Business"],
-    domain: "odoo.enterprise/internal",
+    domain: "odoo.erp/internal",
     description: "Practical experience developing and customizing Odoo ERP solutions for business requirements and workflows. Focused on business process integration, reporting, and functional module customization.",
     technologies: [
       "Odoo ERP",
@@ -154,7 +154,7 @@ export const projects = [
     githubUrl: null,
     isOdooExperience: true,
     badge: "ERP Solution",
-    statusText: "Enterprise Solution",
+    statusText: "Odoo ERP Solution",
     experienceNote: "Practical experience with Odoo ERP customization and business workflow development."
   }
 ];
