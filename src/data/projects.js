@@ -94,35 +94,35 @@ export const projects = [
     badge: "Production Client",
     statusText: "Live Production"
   },
-  {
-    id: "jigjiga-student-union",
-    title: "Jigjiga University Student Union",
-    category: "University Web Application",
-    filterCategories: ["Full-Stack", "Backend", "Frontend"],
-    domain: "jigjiga.edu.et/union",
-    description: "A university-focused web application developed for the Jigjiga University Student Union. The project provides a modern responsive interface and backend architecture for managing university-related information.",
-    technologies: [
-      "React.js",
-      "JavaScript",
-      "Tailwind CSS",
-      "Django",
-      "Django REST Framework",
-      "PostgreSQL"
-    ],
-    features: [
-      "Responsive university interface",
-      "Staff management",
-      "REST API architecture",
-      "PostgreSQL database",
-      "Reusable components",
-      "Modern responsive design"
-    ],
-    liveDemoUrl: null,
-    githubUrl: null,
-    isOdooExperience: false,
-    badge: "Full-Stack App",
-    statusText: "Campus System"
-  },
+  // {
+  //   id: "jigjiga-student-union",
+  //   title: "Jigjiga University Student Union",
+  //   category: "University Web Application",
+  //   filterCategories: ["Full-Stack", "Backend", "Frontend"],
+  //   domain: "jigjiga.edu.et/union",
+  //   description: "A university-focused web application developed for the Jigjiga University Student Union. The project provides a modern responsive interface and backend architecture for managing university-related information.",
+  //   technologies: [
+  //     "React.js",
+  //     "JavaScript",
+  //     "Tailwind CSS",
+  //     "Django",
+  //     "Django REST Framework",
+  //     "PostgreSQL"
+  //   ],
+  //   features: [
+  //     "Responsive university interface",
+  //     "Staff management",
+  //     "REST API architecture",
+  //     "PostgreSQL database",
+  //     "Reusable components",
+  //     "Modern responsive design"
+  //   ],
+  //   liveDemoUrl: null,
+  //   githubUrl: null,
+  //   isOdooExperience: false,
+  //   badge: "Full-Stack App",
+  //   statusText: "Campus System"
+  // },
   {
     id: "odoo-erp-solutions",
     title: "Odoo ERP Development & Business Solutions",
