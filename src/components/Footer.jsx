@@ -166,7 +166,7 @@ export default function Footer() {
             </div>
 
             {/* Full Round / Circular Back to Top Button */}
-            <div className="flex items-center gap-3">
+            {/* <div className="flex items-center gap-3">
               <span className="text-xs text-slate-400 hidden sm:inline font-mono">
                 Back to top
               </span>
@@ -179,7 +179,7 @@ export default function Footer() {
               >
                 <FiArrowUp className="w-4 h-4 sm:w-5 sm:h-5 transition-transform group-hover:-translate-y-0.5" />
               </button>
-            </div>
+            </div> */}
           </div>
         </div>
       </footer>
