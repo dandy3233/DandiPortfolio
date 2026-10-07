@@ -19,17 +19,17 @@ export const personalInfo = {
   socials: {
     github: {
       name: "GitHub",
-      url: "https://github.com/dandytakilu", // Replace with your actual GitHub profile URL if different
+      url: "https://github.com/dandy3233", // Replace with your actual GitHub profile URL if different
       isPlaceholder: true
     },
     linkedin: {
       name: "LinkedIn",
-      url: "https://linkedin.com/in/dandytakilu", // Replace with your actual LinkedIn profile URL
+      url: "https://www.linkedin.com/in/dandi-takilu-003894242/", // Replace with your actual LinkedIn profile URL
       isPlaceholder: true
     },
     telegram: {
       name: "Telegram",
-      url: "https://t.me/dandytakilu", // Replace with your actual Telegram username URL
+      url: "https://t.me/@dandy_tak", // Replace with your actual Telegram username URL
       isPlaceholder: true
     }
   },
